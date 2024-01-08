@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Carlos Campos"
+title: "A MAUI Developer"
+description: "A journey of a developer using .NET MAUI."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /blog
@@ -16,7 +16,7 @@ authors:
   maxx:
     name: Maxx
     display_name: Carlos Campos
-    gravatar: me158570e4f4c36
+    gravatar: 4c3c33709a4028c0d8e1cd7b880855e5bde777aa12f61d23fa110b4c79c2da56
     email: me@carloscampos.dev
     web: https://codercampos.github.io/blog
     twitter: https://twitter.com/soyelmaxx
